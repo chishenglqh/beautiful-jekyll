@@ -4,10 +4,10 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+李起豪，男，2002年生. 目前就读于中国石油大学（北京）人工智能学院
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- 业精于勤荒于嬉，行成于思毁于随
+- 人生有梦，行于当下
 
 What else do you need?
 
