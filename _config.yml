@@ -20,7 +20,7 @@ author: 李起豪
 ###############################################
 
 navbar-links:
-  About Me: "https://github.com/chishenglqh/chishenglqh.github.io/blob/master/aboutme.md”
+  About Me: "aboutme.md”
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
